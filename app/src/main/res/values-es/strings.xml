@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recetas rapidas</string>
+    <string name="main_edi_text_hint">Buscar : Escribe algo...</string>
+    <string name="no_recipes">No tienes recetas en tu lista</string>
+</resources>

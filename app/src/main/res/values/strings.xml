@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Easy Recipes</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="main_edi_text_hint">Search : Write somethings...</string>
+    <string name="no_recipes">Looks like you don\'t have recipes</string>
+</resources>
